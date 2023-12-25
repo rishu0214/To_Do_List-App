@@ -1,6 +1,6 @@
 ## Unity ##
 *.dart linguist-detectable=true
-*.cs diff=csharp text
+
 *.cginc text
 *.shader text
 

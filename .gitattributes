@@ -1,5 +1,8 @@
 ## Unity ##
+*.cpp linguist-vendored
+*.dart linguist-language=Dart
 *.dart linguist-detectable=true
+
 
 *.cginc text
 *.shader text

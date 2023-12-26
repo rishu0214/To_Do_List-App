@@ -1,5 +1,5 @@
 ## Unity ##
-*.cpp linguist-vendored
+
 *.dart linguist-language=Dart
 *.dart linguist-detectable=true
 
